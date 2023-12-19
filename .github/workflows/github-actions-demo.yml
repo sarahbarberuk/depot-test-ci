@@ -17,4 +17,4 @@ jobs:
     - uses: depot/setup-action@v1
     - uses: depot/build-push-action@v1
       with:
-        project: SarahPersonal
+        project: depot_project_19272af05f3a3468d92cc7ba6046b99ce36f38ac196417e24fbe43812a5b70f2
